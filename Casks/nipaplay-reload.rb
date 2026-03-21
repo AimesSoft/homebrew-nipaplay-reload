@@ -4,12 +4,12 @@ cask "nipaplay-reload" do
 
   # --- 修改这里 --- #
   # URL 指向 .dmg 文件，并且文件名与您的构建脚本匹配
-  url "https://github.com/MCDFsteve/NipaPlay-Reload/releases/download/v#{version}/NipaPlay_#{version}_macOS_Universal.dmg",
-      verified: "github.com/MCDFsteve/NipaPlay-Reload/"
+  url "https://github.com/AimesSoft/NipaPlay-Reload/releases/download/v#{version}/NipaPlay_#{version}_macOS_Universal.dmg",
+      verified: "github.com/AimesSoft/NipaPlay-Reload/"
   # ---------------- #
 
   name "NipaPlay-Reload"
-  homepage "https://github.com/MCDFsteve/NipaPlay-Reload"
+  homepage "https://github.com/AimesSoft/NipaPlay-Reload"
 
   # app 名称需要与 .dmg 文件中的 .app 名称一致
   # 根据您的 dmg.sh 脚本，应用名应该是 NipaPlay.app
