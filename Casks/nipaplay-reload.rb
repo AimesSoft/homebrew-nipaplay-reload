@@ -1,6 +1,6 @@
 cask "nipaplay-reload" do
   version "1.11.8" # 会被自动更新
-  sha256 "6ff0734a4fb931e532e7fb072c3fdad5e915d0b8a8bd6d69ab23a1cc45d03080" # 会被自动更新
+  sha256 "77f8190422770f825124df1b691257bb581db6c71f43fc2086b4598f9e782c42" # 会被自动更新
 
   # --- 修改这里 --- #
   # URL 指向 .dmg 文件，并且文件名与您的构建脚本匹配
