@@ -4,8 +4,7 @@ cask "nipaplay-reload" do
 
   # --- 修改这里 --- #
   # URL 指向 .dmg 文件，并且文件名与您的构建脚本匹配
-  url "https://github.com/AimesSoft/NipaPlay-Reload/releases/download/v#{version}/NipaPlay_#{version}_macOS_Universal.dmg",
-      verified: "github.com/AimesSoft/NipaPlay-Reload/"
+  url "https://github.com/AimesSoft/NipaPlay-Reload/releases/download/v#{version}/NipaPlay_#{version}_macOS_Universal.dmg"
   # ---------------- #
 
   name "NipaPlay-Reload"
